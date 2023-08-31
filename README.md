@@ -1,4 +1,4 @@
-# MathProject
+# MathGameProject
 Math project in java 
 
 # Link to the video: 
